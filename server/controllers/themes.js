@@ -1,6 +1,6 @@
 'use strict';
 
-var request = require('./node_modules/request');
+var request = require('../../node_modules/request');
 
 exports.save = function(req, res, gfs) {
 
